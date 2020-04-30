@@ -21,20 +21,6 @@ public class MainServlet extends HttpServlet {
                 "  <title>Reidj</title>\n" +
                 " </head>\n" +
                 " <body>\n" +
-                "  <style>\n" +
-                "    body {\n" +
-                "      background: #c7b39b url(images/fon.png);\n" +
-                "    }\n" +
-                "  </style>" +
-                " <p>\n" +
-                " <a href=\"https://vk.com/reidj\"><img src=images/vk.png height=\"100\" style=\"position:absolute; left: 880px; top: 450px;\"></a>\n" +
-                " </p>\n" +
-                " <p>\n" +
-                " <a href=\"https://steamcommunity.com/id/soezsorry/\"><img src=images/steam.png height=\"67\" style=\"position:absolute; left: 1010px; top: 466px;\"></a>\n" +
-                " </p>\n" +
-                " <p>\n" +
-                " <a href=\"https://github.com/Reidj3/\"><img src=images/github.png height=\"75\" style=\"position:absolute; left: 835px; top: 466px;\"></a>\n" +
-                " </p>\n" +
                 " </body>\n" +
                 "</html>" +
                 "");
