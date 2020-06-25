@@ -74,7 +74,7 @@ var TextScramble = function () {
 }();
 
 
-var phrases = ['Reidj', 'java coder', '', 'live faster', 'die young'];
+var phrases = ['Reidj', 'java coder', '.', 'live faster', 'die young'];
 
 var el = document.querySelector('.text');
 var fx = new TextScramble(el);
